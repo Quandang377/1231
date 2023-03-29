@@ -1,0 +1,12 @@
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\bin\Debug\DUANCUATOI.exe.config
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\bin\Debug\DUANCUATOI.exe
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\bin\Debug\DUANCUATOI.pdb
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.csproj.AssemblyReference.cache
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.frmdangnhap.resources
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.Properties.Resources.resources
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.exe
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.pdb
+C:\Users\Gaming\Desktop\DUANCUATOI\DUANCUATOI\obj\Debug\DUANCUATOI.frmtrangchu.resources
